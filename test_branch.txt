@@ -1,4 +1,8 @@
 sds
 Creating a new branch is quick & simple.
 sdsdsdsd
+<<<<<<< HEAD
 master
+=======
+dev
+>>>>>>> dev
